@@ -13,8 +13,8 @@ The event will span two weeks, starting on the 20th of November and ending on th
 Index | Date | Time | Topic | Speaker
 --- | --- | --- | --- | ---
 1 | 20/11/2023 | 15:00 - 17:00 | Introduction to Recommender Systems | FCG
-2 | 24/11/2023 | 15:00 - 17:00 | Natural Language Processing | ?
-3 | 27/11/2023 | 15:00 - 17:00 | Graph Neural Networks | ?
+2 | 24/11/2023 | 15:00 - 17:00 | Natural Language Processing | FCG
+3 | 27/11/2023 | 15:00 - 17:00 | Weaviate | Weaviate
 4 | 01/12/2023 | 15:00 - 17:00 | Awards Ceremony | FCG
 
 ## Registration for Competition
