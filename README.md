@@ -15,28 +15,12 @@ Machine Learning Fortnight is the second edition of ML competitions orgnanized b
 Note that registration is **not necessary** if you simply wish to attend the lectures.
 
 
-<div 
-    style="
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
-        background-color: #f5f5f5;
-        position: absolute;
-        top: 10%;
-        right: 0;
-        padding: 10px;
-        width: 200px;
-        ">
 
-**Table of Contents**
-
-[`Event Structure`](#event-structure)
-[`Competition`](#competition)
-[`Prerequisites`](#prerequisites)
-[`Announcements and Communication`](#announcements-and-communication)
-</div>
+> #### Table of Contents
+> [Event Structure](#event-structure)
+> [Competition](#competition)
+> [Prerequisites](#prerequisites)
+> [Announcements and Communication](#announcements-and-communication)
 
 ## Event Structure
 
