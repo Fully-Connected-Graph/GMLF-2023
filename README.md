@@ -8,7 +8,19 @@
 />
 
 
-[<img src="https://img.shields.io/badge/Registration Form-blue"/>][2]
+<div style="display:flex; gap:1rem; align-items: center; width:100%;">
+
+<a href="https://forms.gle/cXX3yp6xFRWstaQ18"><img src="https://img.shields.io/badge/Registration Form-blue"/></a>
+
+<a href="./resources" target="_blank"><img src="https://img.shields.io/badge/Resources-red"/></a>
+
+<a href="https://chat.whatsapp.com/JynZLRD7yUr9f5OsQ1rzkb" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366"/></a>
+
+<a href="https://discord.gg/JfzxyBHPsH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da"/></a>
+
+
+
+</div>
 
 Machine Learning Fortnight is the second edition of ML competitions orgnanized by the [Fully Connected Graph][1]. This year's task is to build the best algorithm to predict user ratings for video games. Along the way, there are 3 lectures to help you get started and learn how to apply machine learning to real-world problems.
 
@@ -17,10 +29,10 @@ Note that registration is **not necessary** if you simply wish to attend the lec
 
 
 > #### Table of Contents
-> [Event Structure](#event-structure)
-> [Competition](#competition)
-> [Prerequisites](#prerequisites)
-> [Announcements and Communication](#announcements-and-communication)
+> - [Event Structure](#event-structure)
+> - [Competition](#competition)
+> - [Prerequisites](#prerequisites)
+> - [Announcements and Communication](#announcements-and-communication)
 
 ## Event Structure
 
