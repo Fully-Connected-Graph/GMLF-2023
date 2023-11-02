@@ -9,7 +9,7 @@
 
 
 <div style="display:flex; gap:1rem; align-items: center; width:100%;">
-<a href="https://forms.gle/cXX3yp6xFRWstaQ18"><img src="https://img.shields.io/badge/Registration Form-blue"/></a>
+<a href="https://forms.gle/FS8t4tJXQLGkBYM68"><img src="https://img.shields.io/badge/Registration Form-blue"/></a>
 <a href="./resources" target="_blank"><img src="https://img.shields.io/badge/Resources-red"/></a>
 <a href="https://chat.whatsapp.com/JynZLRD7yUr9f5OsQ1rzkb" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366"/></a>
 <a href="https://discord.gg/JfzxyBHPsH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da"/></a>
@@ -69,6 +69,6 @@ If you have any questions you can ask them on our [Discord channel](https://disc
 
 
 [1]: https://www.svcover.nl/committees?commissie=programming_committee "SV Cover Fully Connected Graph"
-[2]: https://forms.gle/cXX3yp6xFRWstaQ18 "Registration Form"
+[2]: https://forms.gle/FS8t4tJXQLGkBYM68 "Registration Form"
 [3]: https://kaggle.com/ "Kaggle"
 [weaviate]: https://weaviate.io/ "Weaviate"
