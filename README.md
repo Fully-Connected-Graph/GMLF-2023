@@ -7,31 +7,53 @@
     style="border-radius: 10px;"
 />
 
-# Groningen Machine Learning Fortnight 2023
 
-Greetings, welcome to the second edition of the machine learning competition organized by [Fully Connected Graph](https://www.svcover.nl/committees?commissie=programming_committee). Do you wish to apply your hard-learned machine learning skills to a hot real-world problem? Or do you just want to have fun and learn something new? Then we strongly encourage you to participate in this event! The goal of this year's contest is to ultimately build a recommender system that can determine if a player will like a certain video game. The theory behind such a system serves as the basis for all modern social media platforms. Along the way, there will be lectures that will cover aspects of **Matrix Factorization**, **Natural Language Processing**, and **Graph Neural Networks** to get you started and turbocharge your learning.
+[<img src="https://img.shields.io/badge/Registration Form-blue"/>][2]
 
-## Prerequisites
+Machine Learning Fortnight is the second edition of ML competitions orgnanized by the [Fully Connected Graph][1]. This year's task is to build the best algorithm to predict user ratings for video games. Along the way, there are 3 lectures to help you get started and learn how to apply machine learning to real-world problems.
 
-We assume that you possess some familiarity with machine learning and Python. If you have recently taken the Introduction to Machine Learning course, then you are well prepared to embark on this journey. Nonetheless, if you possess the determination to learn, then you are more than welcome to participate. We will provide you with the necessary tools and resources to get you started [here](refresher/orientation.md).
+Note that registration is **not necessary** if you simply wish to attend the lectures.
 
 ## Event Structure
 
-The event will span two weeks, starting on the 20th of November and ending on the 1st of December. During this period, there will be 3 lectures with an awards ceremony on the final day of the competition. Refer to the table below for the schedule and content of each lecture. Note that the deadline for submissions will at 23:59 on the 30th of November. In addition to submitting predictions, participants will be required to present a short explanation of their model to the audience.
+The event lasts a [fortnight](https://en.wikipedia.org/wiki/Fortnight), from 18<sup>th</sup> November to 1<sup>st</sup> December. 
 
-Index | Date | Time | Topic | Speaker
---- | --- | --- | --- | ---
-1 | 20/11/2023 | 15:00 - 17:00 | Introduction to Recommender Systems | FCG
-2 | 24/11/2023 | 15:00 - 17:00 | Natural Language Processing | FCG
-3 | 27/11/2023 | 15:00 - 17:00 | Weaviate | Weaviate
-4 | 01/12/2023 | 15:00 - 17:00 | Awards Ceremony | FCG
+The competition will be hosted on [Kaggle][3], where you will be able to submit your predictions and see how you rank against other participants.
 
-## Registration for Competition
+There will be 3 lectures and an awards ceremony:
 
-To participate in the competition, you need to register your team [here](https://forms.gle/cXX3yp6xFRWstaQ18). There can be up to 3 people in a team, however, you can also register as a lone wolf if desired. Once you have submitted the form, we invite you to register your team on [Kaggle](https://www.kaggle.com/). This is where you will submit your predictions and where the leader board will be hosted. Note that registration is **not necessary** if you simply wish to attend the lectures.
+| Date | Time | Topic | Speaker
+| --- | --- | --- | ---
+| 20/11/2023 | 15:00 - 17:00 | Introduction to Recommender Systems | FCG
+| 24/11/2023 | 15:00 - 17:00 | Natural Language Processing | FCG
+| 27/11/2023 | 15:00 - 17:00 | Vector Databases | [Weaviate][weaviate]
+| 01/12/2023 | 15:00 - 17:00 | Presentations / Awards Ceremony | you ;)
 
-## Rewards
+## Competition
 
-Participants will receive a sticker of our cute mascot. The winning team will receive shirts with the mascot printed on them so they can show off their unparalled machine learning skills (and love for octopi).
+To participate in the competition, register yourself [here][2], and you will receive an email with the link to the competition. 
 
-![Octopus Gamer](assets/octopus.png)
+You will be able to submit your predictions on Kaggle, and the leaderboard will be updated in real-time. The competition will end on 1<sup>st</sup> December at 15:00, and the winners will be announced at the awards ceremony.
+
+The top teams will have to make a short presentation about their approach to the problem and present it at the awards ceremony. Judges will then decide the winners.
+
+## Prerequisites
+
+For the lectures and competition we expect you to have experience with Python and machine learning. Taking the Introduction to Machine Learning course is recommended, but not required.
+
+Still, if you are a noob, don't worry! You can still participate in the competition and learn a lot along the way. **Check out our [resources](/resources) page for some good starting points.**
+
+
+## Announcements and Communication
+
+There will be announcements on lectures on Cover and [FCG whatsapp](https://chat.whatsapp.com/JynZLRD7yUr9f5OsQ1rzkb) groups.
+
+If you have any questions you can ask them on our [Discord channel](https://discord.gg/JfzxyBHPsH).
+
+<!-- ![Octopus Gamer](assets/octopus.png) -->
+
+
+[1]: https://www.svcover.nl/committees?commissie=programming_committee "SV Cover Fully Connected Graph"
+[2]: https://forms.gle/cXX3yp6xFRWstaQ18 "Registration Form"
+[3]: https://kaggle.com/ "Kaggle"
+[weaviate]: https://weaviate.io/ "Weaviate"
