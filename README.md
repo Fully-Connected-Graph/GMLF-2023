@@ -1,4 +1,11 @@
-![Groningen Machine Learning Fortnight](assets/banner.png)
+<img 
+    src="assets/banner.png" 
+    alt="GMLF 2023 Banner" 
+    width="100%"
+    height="auto"
+    align="center"
+    style="border-radius: 10px;"
+/>
 
 # Groningen Machine Learning Fortnight 2023
 
