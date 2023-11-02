@@ -49,8 +49,9 @@ The top teams will have to make a short presentation about their approach to the
 
 For the lectures and competition we expect you to have experience with Python and machine learning. Taking the Introduction to Machine Learning course is recommended, but not required.
 
-Still, if you are a noob, don't worry! You can still participate in the competition and learn a lot along the way. **Check out our [resources](/resources) page for some good starting points.**
+Still, if you are a noob, don't worry! You can still participate in the competition and learn a lot along the way. **Check out our [resources](./resources) page** for some good starting points.
 
+---
 
 ## Announcements and Communication
 
