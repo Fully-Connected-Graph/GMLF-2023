@@ -1,3 +1,5 @@
+![Groningen Machine Learning Fortnight](assets/banner.png)
+
 # Groningen Machine Learning Fortnight 2023
 
 Greetings, welcome to the second edition of the machine learning competition organized by [Fully Connected Graph](https://www.svcover.nl/committees?commissie=programming_committee). Do you wish to apply your hard-learned machine learning skills to a hot real-world problem? Or do you just want to have fun and learn something new? Then we strongly encourage you to participate in this event! The goal of this year's contest is to ultimately build a recommender system that can determine if a player will like a certain video game. The theory behind such a system serves as the basis for all modern social media platforms. Along the way, there will be lectures that will cover aspects of **Matrix Factorization**, **Natural Language Processing**, and **Graph Neural Networks** to get you started and turbocharge your learning.
@@ -25,4 +27,4 @@ To participate in the competition, you need to register your team [here](https:/
 
 Participants will receive a sticker of our cute mascot. The winning team will receive shirts with the mascot printed on them so they can show off their unparalled machine learning skills (and love for octopi).
 
-![Octopus Gamer](images/octopus.png)
+![Octopus Gamer](assets/octopus.png)
