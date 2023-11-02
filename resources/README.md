@@ -4,7 +4,7 @@ _Partially, this text written by Copilot, so there can be repetitions._
 
 ## Recommender Systems
 
-Personally, I don't have a lot of experience myself with recommender systems. But I have compile a few resources that I think are useful for learning about recommender systems:
+Personally, I don't have a lot of experience myself with recommender systems. But I have compiled a few resources that I think are useful for learning about recommender systems:
 
 - Steven Brunton has a great [Matrix Factorization and Netflix Prize lecture](https://youtu.be/sooj-_bXWgk?si=RGUc9CdCBfZtfqZa) in his SVD lecture series.
 - Andrew Ng goes through the mathematics and challenges in his [Recommender Systems lecture](https://youtu.be/9siFuMMHNIA?list=PLoR5VjrKytrCv-Vxnhp5UyS1UjZsXP0Kj).
