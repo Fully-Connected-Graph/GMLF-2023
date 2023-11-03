@@ -36,12 +36,12 @@ The competition will be hosted on [Kaggle][3], where you will be able to submit 
 
 There will be 3 lectures and an awards ceremony:
 
-| Date | Time | Topic | Speaker
-| --- | --- | --- | ---
-| 20/11/2023 | 15:00 - 17:00 | Introduction to Recommender Systems | FCG
-| 24/11/2023 | 15:00 - 17:00 | Natural Language Processing | FCG
-| 27/11/2023 | 15:00 - 17:00 | Vector Databases | [Weaviate][weaviate]
-| 01/12/2023 | 15:00 - 17:00 | Presentations / Awards Ceremony | you ;)
+| Date | Time | Location | Topic | Speaker
+| --- | --- | --- | --- | ---
+| 20/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Introduction to Recommender Systems | FCG
+| 24/11/2023 | 15:00 - 17:00 | BB 5161.0105 | Natural Language Processing | FCG
+| 27/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Vector Databases | [Weaviate][weaviate]
+| 01/12/2023 | 15:00 - 17:00 | BB 5161.0105 | Presentations / Awards Ceremony | you ;)
 
 ## Competition
 
