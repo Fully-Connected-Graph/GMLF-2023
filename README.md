@@ -57,8 +57,6 @@ For the lectures and competition we expect you to have experience with Python an
 
 Still, if you are a noob, don't worry! You can still participate in the competition and learn a lot along the way. **Check out our [resources](./resources) page** for some good starting points.
 
----
-
 ## Announcements and Communication
 
 There will be announcements on lectures on Cover and [FCG whatsapp](https://chat.whatsapp.com/JynZLRD7yUr9f5OsQ1rzkb) groups.
