@@ -13,6 +13,7 @@
 <a href="./resources" target="_blank"><img src="https://img.shields.io/badge/Resources-red"/></a>
 <a href="https://chat.whatsapp.com/JynZLRD7yUr9f5OsQ1rzkb" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25d366"/></a>
 <a href="https://discord.gg/JfzxyBHPsH" target="_blank"><img src="https://img.shields.io/badge/Discord-7289da"/></a>
+<a href="https://fully-connected-graph.github.io/GMLM-2022/" target="_blank"><img src="https://img.shields.io/badge/ML Month 2022-ff1694"/></a>
 </div>
 
 
