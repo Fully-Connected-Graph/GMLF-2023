@@ -37,14 +37,12 @@ The competition will be hosted on [Kaggle][3], where you will be able to submit 
 
 There will be 3 lectures and an awards ceremony:
 
-| Date | Time | Location | Topic | Speaker
-| --- | --- | --- | --- | ---
-| 20/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Introduction to Recommender Systems | FCG
-| 24/11/2023 | 15:00 - 17:00 | BB 5161.0105 | Natural Language Processing | FCG
-| 27/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Vector Databases | [Weaviate][weaviate]
-| 01/12/2023 | 15:00 - 17:00 | BB 5161.0105 | Presentations / Awards Ceremony | you ;)
-
-[Lecture 1 notebook 👈](https://colab.research.google.com/github/Fully-Connected-Graph/GMLF-2023/blob/main/lecture_1/notebook.ipynb)
+| Date | Time | Location | Topic | Speaker | Materials |
+| --- | --- | --- | --- | --- | --- |
+| 20/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Introduction to Recommender Systems | FCG | [🎥 Recording][recording_1] <br/> [🛝 Slides][slides_1] <br/> [🐍 Notebook][notebook_1] |
+| 24/11/2023 | 15:00 - 17:00 | BB 5161.0105 | Natural Language Processing | FCG | |
+| 27/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Vector Databases | [Weaviate][weaviate] | |
+| 01/12/2023 | 15:00 - 17:00 | BB 5161.0105 | Presentations / Awards Ceremony | you ;) | |
 
 ## Competition
 
@@ -73,3 +71,15 @@ If you have any questions you can ask them on our [Discord channel](https://disc
 [2]: https://forms.gle/FS8t4tJXQLGkBYM68 "Registration Form"
 [3]: https://kaggle.com/ "Kaggle"
 [weaviate]: https://weaviate.io/ "Weaviate"
+
+[recording_1]: https://www.youtube.com/watch?v=VpDyens-WH8
+[recording_2]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[recording_3]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[recording_4]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+
+[notebook_1]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLF-2023/blob/main/lecture_1/notebook.ipynb
+
+[slides_1]: /lecture_1/slides.pdf "Introduction to Recommender Systems"
+[slides_2]: /lecture_2/slides.pdf "Natural Language Processing"
+[slides_3]: /lecture_3/slides.pdf "Vector Databases"
+[slides_4]: /lecture_4/slides.zip "Presentations / Awards Ceremony"
