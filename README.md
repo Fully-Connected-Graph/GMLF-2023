@@ -44,6 +44,8 @@ There will be 3 lectures and an awards ceremony:
 | 27/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Vector Databases | [Weaviate][weaviate]
 | 01/12/2023 | 15:00 - 17:00 | BB 5161.0105 | Presentations / Awards Ceremony | you ;)
 
+[Lecture 1 notebook 👈](https://colab.research.google.com/github/Fully-Connected-Graph/GMLF-2023/blob/main/lecture_1/notebook.ipynb)
+
 ## Competition
 
 To participate in the competition, register yourself [here][2], and you will receive an email with the link to the competition. 
