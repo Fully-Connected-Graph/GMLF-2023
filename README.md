@@ -40,7 +40,7 @@ There will be 3 lectures and an awards ceremony:
 | Date | Time | Location | Topic | Speaker | Materials |
 | --- | --- | --- | --- | --- | --- |
 | 20/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Introduction to Recommender Systems | FCG | [🎥 Recording][recording_1] <br/> [🛝 Slides][slides_1] <br/> [🐍 Notebook][notebook_1] |
-| 24/11/2023 | 15:00 - 17:00 | BB 5161.0105 | Natural Language Processing | FCG | [🐍 Notebook][notebook_2] |
+| 24/11/2023 | 15:00 - 17:00 | BB 5161.0105 | Natural Language Processing | FCG | [🎥 Recording][recording_2] <br/>  [🐍 Notebook][notebook_2] |
 | 27/11/2023 | 15:00 - 17:00 | LB 5173.0055 | Vector Databases | [Weaviate][weaviate] | |
 | 01/12/2023 | 15:00 - 17:00 | BB 5161.0105 | Presentations / Awards Ceremony | you ;) | |
 
@@ -73,14 +73,14 @@ If you have any questions you can ask them on our [Discord channel](https://disc
 [weaviate]: https://weaviate.io/ "Weaviate"
 
 [recording_1]: https://www.youtube.com/watch?v=VpDyens-WH8
-[recording_2]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+[recording_2]: https://www.youtube.com/watch?v=hAF_33X7SQg
 [recording_3]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 [recording_4]: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
 [notebook_1]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLF-2023/blob/main/lecture_1/notebook.ipynb
 [notebook_2]: https://colab.research.google.com/github/Fully-Connected-Graph/GMLF-2023/blob/main/lecture_2/notebook.ipynb
 
-[slides_1]: /lecture_1/slides.pdf "Introduction to Recommender Systems"
-[slides_2]: /lecture_2/slides.pdf "Natural Language Processing"
-[slides_3]: /lecture_3/slides.pdf "Vector Databases"
-[slides_4]: /lecture_4/slides.zip "Presentations / Awards Ceremony"
+[slides_1]: ./lecture_1/slides.pdf "Introduction to Recommender Systems"
+[slides_2]: ./lecture_2/slides.pdf "Natural Language Processing"
+[slides_3]: ./lecture_3/slides.pdf "Vector Databases"
+[slides_4]: ./lecture_4/slides.zip "Presentations / Awards Ceremony"
